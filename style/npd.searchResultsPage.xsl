@@ -77,7 +77,7 @@
                 <a href="{$siteroot}index.php">Home</a>
               </li>
               <li>
-                <a href="{$siteroot}browse.php">Browse</a>
+                <a href="{$siteroot}search.php?fulltext=*:*">Browse</a>
               </li>
               <li>
                   <a href="{$siteroot}search.php">Search</a>

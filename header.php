@@ -7,7 +7,7 @@ function printHeader($hlField='') {
     print("<br />");
     print("<ul>");
     print("<li><a href='" . BASE_HREF . "index.php' " . ($hlField == "home" ? "id=current" : "") . " >Home</a></li>");
-    print("<li><a href='" . BASE_HREF . "browse.php' " . ($hlField == "browse" ? "id=current" : "") . " >Browse</a></li>");
+    print("<li><a href='" . BASE_HREF . "search.php?fulltext=*:*' " . ($hlField == "browse" ? "id=current" : "") . " >Browse</a></li>");
     print("<li><a href='" . BASE_HREF . "search.php' " . ($hlField == "search" ? "id=current" : "") . " >Search</a></li>");
     print("<li><a href='" . BASE_HREF . "examples.php' " . ($hlField == "examples" ? "id=current" : "") . " >Examples</a></li>");
     print("<li><a href='" . BASE_HREF . "about.php' " . ($hlField == "about" ? "id=current" : "") . " >About</a></li>");

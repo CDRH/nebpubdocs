@@ -128,7 +128,7 @@
                 <a href="{$siteroot}index.php">Home</a>
               </li>
               <li>
-                <a href="{$siteroot}browse.php">Browse</a>
+                <a href="{$siteroot}search.php?fulltext=*:*">Browse</a>
               </li>
               <li>
                 <a href="{$siteroot}search.php">Search</a>
@@ -170,7 +170,6 @@
               <h3>
                 <xsl:value-of select="$startIndex + 1"/>&#8211;<xsl:value-of
                   select="$startIndex + $rows"/> of <xsl:value-of select="$numFound"/> entries </h3>
-
 
               <xsl:for-each select="/response/result[@name='response']/doc">
                 <xsl:variable name="id" select="./str[@name='id']/text()"/>
