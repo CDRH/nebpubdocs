@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<response> 
+    
+    <lst name="responseHeader"> 
+        <int name="status">0</int> 
+        <int name="QTime">18</int> 
+        <lst name="params"> 
+            <str name="indent">on</str> 
+            <str name="start">0</str> 
+            <str name="q">water</str> 
+            <str name="rows">10</str> 
+            <str name="version">2.2</str> 
+        </lst> 
+    </lst> 
+    <result name="response" numFound="7918" start="0"> 
+        <doc> 
+            <int name="currentPage">222</int> 
+            <str name="date">1902</str> 
+            <str name="id">npd.00007.00019.p222</str> 
+            <arr name="text"><str>WEEPING WATER PUBLIC SCHOOL </str></arr> 
+            <date name="timestamp">2011-07-25T20:53:34.001Z</date> 
+            <str name="title">SCHOOL BUILDINGS AND GROUNDS IN NEBRASKA PUBLISHED BY THE DEPARTMENT OF PUBLIC INSTRUCTION STATE OF NEBRASKA</str> 
+            <int name="totalPages">NaN</int> 
+        </doc> 
+        <doc> 
+            <int name="currentPage">14</int> 
+            <str name="date">1908</str> 
+            <str name="id">npd.00020.00010.p014</str> 
+            <arr name="text"><str>Water F \ A \ </str></arr> 
+            <date name="timestamp">2011-07-25T20:57:15.309Z</date> 
+            <str name="title">Biennial Report OF THE Game and Fish Commission OF THE State of Nebraska, For the Two Years Ending December 31st., 1908.  To The Governor</str> 
+            <int name="totalPages">NaN</int> 
+        </doc> 
+        <doc> 
+            <int name="currentPage">374</int> 
+            <str name="date">1926-11-30</str> 
+            <str name="id">npd.00060.00003.p374</str> 
+            <arr name="text"><str>DIVISION OF WATER POWER </str></arr> 
+            <date name="timestamp">2011-07-25T21:09:53.17Z</date> 
+            <str name="title"/> 
+            <int name="totalPages">NaN</int> 
+        </doc> 
+        <doc> 
+            <int name="currentPage">191</int> 
+            <str name="date">1912</str> 
+            <str name="id">npd.00028.00004.p191</str> 
+            <arr name="text"><str>186 PLATTE BIVEB AT COLUMBUS. NEBH l»10 Day Jan. Feb. Mar. Apr. May Jon* July Au«. Sept. Oet. Not. Dee l'«te Hrdrocrapiwr Gaje H. P. I Dto-harftw 8. Ft 1 Ort. 1 A. A. Dohaon t Not. JSA. A. Dotaaoo S5 10.0 Estimated aj | Eat i mated 1 1.55 No water No water Froi. 2 1.0 No water No water Froc. I 1.0 1.1 No water Frox. 4 .H 1.15 No water Prat. 7 .7 1.1 No water Proc. ( .« 1.1 No water Pros \d water Nu water Pros. No water 0.8 No wa er Froi. No water 0.4 No water Froc. 10 No water No water No water Proc. 11 No water No water No water No water No water No watt' l» No water No water No water 1 « •.» No water No water So water 15 No water No water No water No watr- 1« Jio water No water No water No water 1 7 . No water No water No water No water ___. No water No water No water No wal. • 1* No water No water No water No wate • SO No watei No water No watei No water M No w»t«r So water So wat. - *• No water No water No watr- S No water No water No wat&lt; - 0.1 No water No water » 0.4 No water No water _._ * 0.» No water No water 0.85 No water 1.0 ■ !■* 0.7 No water Frozen » 1.4 0.85 No water Proceo 30 - So No water No water Frown *■ 1.S6 No watei No water Frozen ACTUAL OAGINOS AT THIS STATION MM </str></arr> 
+            <date name="timestamp">2011-07-25T20:59:40.743Z</date> 
+            <str name="title">NINTH BIENNIAL REPORT OF The State Board of Irrigation Highways and Drainage TO THE GOVERNOR OF NEBRASKA November 30, 1910 to September 1, 1912</str> 
+            <int name="totalPages">NaN</int> 
+        </doc> 
+        <doc> 
+            <int name="currentPage">145</int> 
+            <str name="date">1902</str> 
+            <str name="id">npd.00011.00008.p145</str> 
+            <arr name="text"><str>CRAWFORD PUBLIC SCHOOL 
+                
+                WEEPING WATER PUBLIC SCHOOL </str></arr> 
+            <date name="timestamp">2011-07-25T20:54:23.79Z</date> 
+            <str name="title">SCHOOL BUILDINGS AND GROUNDS IN NEBRASKA PBULISHED BY THE DEPARTMENT OF PUBLIC INSTRUCTION, STATE OF NEBRASKA</str> 
+            <int name="totalPages">161</int> 
+        </doc> 
+        <doc> 
+            <int name="currentPage">821</int> 
+            <str name="date">1920</str> 
+            <str name="id">npd.00050.00002.p821</str> 
+            <arr name="text"><str>BUREAU OF IRRIGATION, POWER AND DRAINAGE Appropriations Abandoned: Pace Water Division No. 1-A 91 Water Division No. 1-B 100 Water Division No. 1-C 102 Water Division No. ID 104 Water Division No. IE lOt Water Division No. 2-A 114 Water Division No. 2-B 117 Water Division No. 2-C 121 Water Division No. 2-D 133 Water Division No. 2-E 140 Applications' approved 143 Applications and Claims Cancelled 147 Applications Dismissed 14C Claims' and Applications Granted, Pending and Abandoned 76 Water Division No. 1-A 77 Water Division No. 1-B »6 Water Division No. 1-C 102 Water Division No. ID 103 Water Division No. IE 105 Water Division No. IP 110 Water Division No. 2-A Ill Water Division No. 2-B 11« Water Division No. 2-C 118 Water Division No. 2-D 12« Water Division No. 2-E 13« Water Division No. 2-F 141 Claims and Applications Listed According to Priority 150 Water Division No. 1-A 151 Water Division No. 1-B 163 Water Division No. 1-C 1«8 Water Division No. ID lit Water Division No. IE 170 Water Division No. 1-P 17» Water Division No. 2-A 174 </str></arr> 
+            <date name="timestamp">2011-07-25T21:07:00.151Z</date> 
+            <str name="title"/> 
+            <int name="totalPages">NaN</int> 
+        </doc> 
+        <doc> 
+            <int name="currentPage">355</int> 
+            <str name="date">1924-12-01</str> 
+            <str name="id">npd.00055.00002.p355</str> 
+            <arr name="text"><str>DIVISION OF WATER POWER AND DRAINAGE DECREES OF COURTS </str></arr> 
+            <date name="timestamp">2011-07-25T21:08:37.551Z</date> 
+            <str name="title"/> 
+            <int name="totalPages">NaN</int> 
+        </doc> 
+        <doc> 
+            <int name="currentPage">317</int> 
+            <str name="date">1922</str> 
+            <str name="id">npd.00052.00001.p317</str> 
+            <arr name="text"><str>DEPARTMKNT OF PUBLIC WORKS 313 INDEX BUREAU OF IRRIGATION, POWER AND DRAINAGE Page Appropriations Abandoned : Water Division No. 1-A 45 Water Division No. 1-B 55 Water Division No. 1-C 57 Water Division No. ID 60 Water Division No. IE 66 Water Division No. 2-A 71 Water Division No. 2-B 74 Water Division No. 2-C 79 Water Division No. 2-D _ 91 Water Division No. 2-E 99 Application Approved 101 Applications and Dockets Cancelled _ 104 Applications Dismissed 106 Claims and Applications Granted and Pending _ 30 Water Division No. 1-A 31 Water Division No. 1-B 49 Water Division No. 1-C 57 Water Division No. 1-D 58 Water Division No. IE 61 Water Division No. IF 67 Water Division No. 2-A 68 Water Division No. 2-B 73 Water Division No. 2-C _ 75 Water Division No. 2-D 83 Water Division No. 2-E 94 Water Division No. 2-F 100 Districts: Drainage 26 Irrigation — Operation and Maintenance 28 Fees 11 Headgate: Relocation 107 Hydrographic Repor (See Index Page 315). </str></arr> 
+            <date name="timestamp">2011-07-25T21:07:30.499Z</date> 
+            <str name="title"/> 
+            <int name="totalPages">NaN</int> 
+        </doc> 
+        <doc> 
+            <int name="currentPage">426</int> 
+            <str name="date">1914</str> 
+            <str name="id">npd.00035.00001.p426</str> 
+            <arr name="text"><str>354 REPORT OF STATE ENGINEER Hall's Ditch Harris &amp; Cooper Ditch Rasher Ditch '. White River Irrigation Status )itch Status along tributar Summary in basin... Along White Tail Creek Foster, Keystone Ca West Keystone Can a Claims and applications, I Water Division 1-A Water Division 1-B Water Division 1-C Water Division 1-D Water Division 1-E gr Water Divis Water Division 2-A Water Division 2-B Water Division 2-C Water Divisi Water Division 2-E Water Division 2-F Climate Drainage Duty of Water Financial Stater History of Irrigation Dev Humidity Irrigation Development Gravity Ditches . Pumping Plants Sub-Irrigation Plants Under-flow Ditches.... Windmill Irrigation.... Irrigation Enterprises Irrigation, General Discussion Irrigation Legislation Irrigation in Nebraska Irrigation, Summary of all in'Statt Irrigation from Elkhorn River 4 Highways </str></arr> 
+            <date name="timestamp">2011-07-25T21:02:13.081Z</date> 
+            <str name="title">TENTH BIENNIAL REPORT OF The State Board of Irrigation Highways and Drainage TO THE GOVERNOR OF NEBRASKA</str> 
+            <int name="totalPages">NaN</int> 
+        </doc> 
+        <doc> 
+            <int name="currentPage">566</int> 
+            <str name="date">1916-10-31</str> 
+            <str name="id">npd.00041.00001.p566</str> 
+            <arr name="text"><str>458 REPORT OF STATE ENGINEER Along the North I'latte River: Castle Rock Irrigation District Enterprise Irrigation District Farmers Irrigation District .... Lisco Canal Midland Canal Overland Cana! Suburban Irrigation District Winters Creek Along Pumpkin Seed Creek Meredith * Attiner Mutual Ditch 1 Along the Republican River Dundy County Ditch Meeker Canal Rupert Ditch Along the South Piatte River Miller and Warren Ditch Along White Tail Creek Keystone, West Kt-ystont and 'ostc K ys Claims and applications granted Water Division 1 A Water Division 11! Water Division 1-C Water Division 1-D Water Division IE Water Division IF Water Division 2-A Water Division 2 B Water Division 2-C Water Division 2-D Water Division M Water Division W I nding mi M M M Claims and applications listed aocordins to priority 111 Water Division 1-A Water Division IB Water Division 1-C Water Division 1-D Water Division IE Water Division 1-P Water Division 2-A 112 124 130 131 132 136 137 </str></arr> 
+            <date name="timestamp">2011-07-25T21:04:03.653Z</date> 
+            <str name="title"/> 
+            <int name="totalPages">NaN</int> 
+        </doc> 
+    </result> 
+</response> 
